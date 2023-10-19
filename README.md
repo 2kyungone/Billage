@@ -8,7 +8,7 @@
  지인 간 돈 거래에 있어 신뢰를 제공하고 거래 내역과 차용증 자동생성, <br>
  알림으로 편하게 관리해주는 신개념 1:1 대출 중개 서비스<br>
   삼성 청년 SW 아카데미</b><br><br>
-  2023.07.04 ~ 2022.08.18
+  2023.08.21 ~ 2022.10.06
   <br>
   <a href="https://youtu.be/DxseVqu3nDE"> 
     <img src="Image/youtube1.png" width="100px"><br>
@@ -21,17 +21,17 @@
 <div align="middle">
 <table>
     <tr>
-        <td height="140px" align="center"> <a href="https://github.com/alsrbs">
+        <td height="140px" align="center"> <a href="https://github.com/Headfish96">
             <img src="Image/chy.png" width="140px" /> <br><br> 👑 최하영 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/wldbs8241">
+        <td height="140px" align="center"> <a href="https://github.com/pockypepe">
             <img src="Image/shj.png" width="140px" /> <br><br> 🌊 송혁준 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/swy0123">
+        <td height="140px" align="center"> <a href="https://github.com/c0mmedes">
             <img src="Image/ldg.png" width="140px" /> <br><br> 🔥 이대경 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/KodaHye">
+        <td height="140px" align="center"> <a href="https://github.com/hyo-nu">
             <img src="Image/jhw.png" width="140px" /> <br><br> 🌞 정현우 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/hajin618">
+        <td height="140px" align="center"> <a href="https://github.com/KyungWon96">
             <img src="Image/lkw.jpg" width="140px" /> <br><br> 👻 이경원 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/210-reverof">
+        <td height="140px" align="center"> <a href="https://github.com/ejuun">
             <img src="Image/lju.png" width="140px" /> <br><br> 🌙 이주언 <br>(Front-End) </a> <br></td>
     </tr>
 </table>
