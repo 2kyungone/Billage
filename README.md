@@ -29,7 +29,7 @@
             <img src="Image/ldg.png" width="140px" /> <br><br> 🔥 이대경 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/hyo-nu">
             <img src="Image/jhw.png" width="140px" /> <br><br> 🌞 정현우 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/KyungWon96">
+        <td height="140px" align="center"> <a href="https://github.com/2kyungone">
             <img src="Image/lkw.jpg" width="140px" /> <br><br> 👻 이경원 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/ejuun">
             <img src="Image/lju.png" width="140px" /> <br><br> 🌙 이주언 <br>(Front-End) </a> <br></td>
